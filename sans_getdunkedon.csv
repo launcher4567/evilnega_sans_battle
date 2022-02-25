@@ -1,0 +1,12 @@
+0,CombatZoneResize,133,251,508,391,TLResume,,
+0,HeartTeleport,320,376,,,,
+0,HeartMode,0,,,,,,
+0,TLPause,,,,,,,
+1,GasterBlaster,2,0,240,159,306,0,0,50
+0,GasterBlaster,2,640,240,549,306,180,0,50
+0,GasterBlaster,2,640,240,549,306,270,0,50
+0,GasterBlaster,2,640,240,159,306,270,0,50
+0,GasterBlaster,1,0,0,189,246,0,0,50
+0,GasterBlaster,1,0,0,259,166,90,0,50
+0,GasterBlaster,1,640,480,449,366,180,0,50
+0,GasterBlaster,1,640,480,379,446,270,0,50
